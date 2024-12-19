@@ -13,7 +13,7 @@ export default {
   "parser_option": {
     "articles": [
       {
-        "title": "【文章待拆分】动态 1967.8.17",
+        "title": "【文章待拆分】【不完整】动态 1967.8.17",
         "authors": [],
         "page_start": 1,
         "page_end": 1,

@@ -1,7 +1,7 @@
 export default {
   "entity": {
     "id": "d4798b16-6788-4e92-abf6-3c8c33cac21d",
-    "name": "卫东 1967.5.12",
+    "name": "卫东 1967.5.12 红代会",
     "internal": false,
     "type": "img",
     "official": false,
@@ -16,7 +16,7 @@ export default {
   "parser_option": {
     "articles": [
       {
-        "title": "【文章待拆分】卫东 1967.5.12",
+        "title": "【文章待拆分】卫东 1967.5.12 红代会",
         "authors": [],
         "page_start": 1,
         "page_end": 4,

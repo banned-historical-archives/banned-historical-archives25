@@ -1,7 +1,7 @@
 export default {
   "entity": {
     "id": "076762ba-2953-41c8-8629-343af22f4b6c",
-    "name": "新江苏简讯 1967.8.7",
+    "name": "新江苏简讯 1967.8.7-4",
     "internal": false,
     "type": "img",
     "official": false,
@@ -15,7 +15,7 @@ export default {
   "parser_option": {
     "articles": [
       {
-        "title": "【文章待拆分】新江苏简讯 1967.8.7",
+        "title": "【文章待拆分】新江苏简讯 1967.8.7-4",
         "authors": [],
         "page_start": 1,
         "page_end": 3,

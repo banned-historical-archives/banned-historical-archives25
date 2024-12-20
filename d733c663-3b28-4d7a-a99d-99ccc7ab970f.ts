@@ -1,7 +1,7 @@
 export default {
   "entity": {
     "id": "d733c663-3b28-4d7a-a99d-99ccc7ab970f",
-    "name": "挺进快报 1967.2.4",
+    "name": "挺进快报 1967.2.4 特",
     "internal": false,
     "type": "img",
     "official": false,
@@ -14,7 +14,7 @@ export default {
   "parser_option": {
     "articles": [
       {
-        "title": "【文章待拆分】挺进快报 1967.2.4",
+        "title": "【文章待拆分】挺进快报 1967.2.4 特",
         "authors": [],
         "page_start": 1,
         "page_end": 2,

@@ -1,7 +1,7 @@
 export default {
   "entity": {
     "id": "c50edb2e-d259-446d-85d5-43557a6bc8f9",
-    "name": "红镇江报 1968.9.25",
+    "name": "红镇江报 1968.9.25 下午",
     "internal": false,
     "type": "img",
     "official": false,
@@ -14,7 +14,7 @@ export default {
   "parser_option": {
     "articles": [
       {
-        "title": "【文章待拆分】红镇江报 1968.9.25",
+        "title": "【文章待拆分】红镇江报 1968.9.25 下午",
         "authors": [],
         "page_start": 1,
         "page_end": 2,

@@ -1,7 +1,7 @@
 export default {
   "entity": {
     "id": "ca1210e4-377c-4a0e-9367-f1c21bc2ce3a",
-    "name": "战报 1916.20",
+    "name": "战报 1967.6.20",
     "internal": false,
     "type": "img",
     "official": false,
@@ -13,7 +13,7 @@ export default {
   "parser_option": {
     "articles": [
       {
-        "title": "【文章待拆分】战报 1916.20",
+        "title": "【文章待拆分】战报 1967.6.20",
         "authors": [],
         "page_start": 1,
         "page_end": 1,
